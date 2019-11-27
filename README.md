@@ -2,11 +2,11 @@
 
 
 # Funcionalidades
-- Start
-- Update
-- Render
-- Entities (posição, tamanho, cor, velocidade)
-- Refereciar imagens da pasta assets
+- Start.
+- Update.
+- Render.
+- Entities (posição, tamanho, cor, velocidade).
+- Refereciar imagens da pasta assets.
 
 # Como usar
 - No diretorio, abra o 'main.js' e use as 3 funções principais (start, update, render) para fazer o seu código.
@@ -20,3 +20,4 @@
 - Crie suas entidades e teste suas funções.
 - As imagens e texturas precisam estar na pasta assets para serem carregadas.
 - No programa já existe um teste completo da Game Engine no Main.js, ela pode ser apagada e deixado só a funções Start, Update e Render.
+- Total customização.
